@@ -81,7 +81,6 @@ section {
     display: grid;
     align-content: center;
     text-align: center;
-    background: darkred;
     min-height: 50vh;
     color: white;
 }
@@ -98,13 +97,16 @@ section {
     margin: 1em auto;
 }
 .page-home .hero {
-    background: #058;
+    background-image: url('https://picsum.photos/id/1042/1600/800');
+    background-position: center top;
+    background-size: cover;
+    background-color: black;
 }
 .page-about .hero {
     background: #058;
 }
 .page-blog .hero {
-    background: #058;
+    background: #058
 }
 
 /* Lists */
