@@ -123,6 +123,12 @@ section {
         grid-template-columns: 1fr 1fr;
     }
 }
+
+.no-bullets {
+    list-style: none;
+    padding: 0;
+}
+
 /* SUB PAGES */
 .page-sub .hero {
     min-height: 30vh;
