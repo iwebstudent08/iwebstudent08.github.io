@@ -128,6 +128,11 @@ section {
     list-style: none;
     padding: 0;
 }
+.no-bullets h4 {
+    margin-bottom: .3em;
+    font-size: .9em;
+    font-weight: normal;
+}
 
 /* SUB PAGES */
 .page-sub .hero {
